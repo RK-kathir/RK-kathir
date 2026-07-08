@@ -31,25 +31,25 @@
 ## 2. About Section
 Forward-thinking Electronics and Instrumentation Engineering student at Madras Institute of Technology, Anna University, specializing in the convergence of industrial automation, embedded edge hardware, and enterprise software engineering[span_3](start_span)[span_3](end_span). Proficient in engineering resilient microcontroller-based architectures and seamlessly integrating machine learning frameworks—ranging from neural-fuzzy systems to Specialized Language Models (SLMs)—into real-time regulatory control and complex industrial workflows[span_4](start_span)[span_4](end_span).
 Driven by a product-engineering mindset, I bridge the gap between physical instrumentation and cloud intelligence[span_5](start_span)[span_5](end_span). Experienced in developing scalable REST APIs for hardware telemetry, optimizing industrial PLC logic configurations, and crafting highly interactive, modern web applications[span_6](start_span)[span_6](end_span). Actively seeking an entry-level role in Embedded Systems, Core Instrumentation, or Automation to architect and validate the next generation of intelligent, reliable cyber-physical systems[span_7](start_span)[span_7](end_span).
-### 🌐 Open To
+ 🌐 Open To
 * Graduate Engineer Trainee (GET) positions in Embedded Systems, Industrial Automation, and Process Instrumentation[span_8](start_span)[span_8](end_span).
 * Research and development initiatives focused on intelligent edge hardware computing and AI-driven control systems[span_9](start_span)[span_9](end_span).
 * Cross-functional collaborations involving scalable IoT architectures, system identification, and full-stack engineering[span_10](start_span)[span_10](end_span).
 ---
-## 3. Tech Stack Section
-### 💻 Languages
+3. Tech Stack Section
+💻 Languages
 * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> Python (DSA, API Integration)[span_11](start_span)[span_11](end_span)
 * <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /> Embedded C & Core C[span_12](start_span)[span_12](end_span)
 * <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> C++ Foundations[span_13](start_span)[span_13](end_span)
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> HTML5 Layouts[span_14](start_span)[span_14](end_span)
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> CSS3 Styling[span_15](start_span)[span_15](end_span)
-### 🎨 Frontend
+🎨 Frontend
 * <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> Modern Web Frameworks[span_16](start_span)[span_16](end_span)
 * <img src="https://img.shields.io/badge/UI%2FUX-3D%20Interactive%20Design-9d4edd?style=flat-square&logo=webgl&logoColor=white" alt="UI/UX" /> 3D Interactive UI Development[span_17](start_span)[span_17](end_span)
-### ⚙️ Backend & Databases
+⚙️ Backend & Databases
 * <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> Flask API Framework[span_18](start_span)[span_18](end_span)
 * <img src="https://img.shields.io/badge/Gunicorn-4EAA25?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn" /> WSGI HTTP Server Deployment[span_19](start_span)[span_19](end_span)
-### 🛠️ Cloud, DevOps & Tooling
+🛠️ Cloud, DevOps & Tooling
 * <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" /> Render Cloud Hosting[span_20](start_span)[span_20](end_span)
 * <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" /> Simulation & Modeling[span_21](start_span)[span_21](end_span)
 * <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> Deep Learning Execution[span_22](start_span)[span_22](end_span)
@@ -61,7 +61,7 @@ Driven by a product-engineering mindset, I bridge the gap between physical instr
 * <img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=flat-square" alt="Proteus" /> Circuit Design Validation[span_28](start_span)[span_28](end_span)
 * <img src="https://img.shields.io/badge/PSpice-Cadence-ff69b4?style=flat-square" alt="PSpice" /> Electronic Circuit Simulation[span_29](start_span)[span_29](end_span)
 ---
-## 4. AI/ML Expertise Section
+4. AI/ML Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ Driven by a product-engineering mindset, I bridge the gap between physical instr
 | **Deep Learning Frameworks** | Intermediate | Structuring and tuning multi-layer feedforward networks and computer vision models within PyTorch[span_33](start_span)[span_33](end_span). |
 
 ---
-## 5. Featured Projects Section
+5. Featured Projects Section
 <details>
 <summary><b>🚀 Automated Gain Tuning & SysID via Hybrid ML (Caterpillar Challenge Finalist)</b></summary>
 <br>
@@ -87,7 +87,7 @@ An advanced industrial co-simulation and edge hardware environment implementing 
 | **Security** | Isolated hardware-to-cloud server infrastructure via encrypted payload transport[span_38](start_span)[span_38](end_span). |
 | **Impact** | Selected as an elite national finalist in the high-stakes Caterpillar Tech Challenge 2026[span_39](start_span)[span_39](end_span). |
 
-### Repository
+ Repository
 * 🔗 [Caterpillar-Tech-Challenge-2026](#)
 ### Professional Project Explanation
 Engineered a comprehensive transfer function baseline inside MATLAB/Simulink mapping to a dedicated BeagleBone Black hardware platform[span_40](start_span)[span_40](end_span). Deployed an asynchronous web-service bridge to pipeline sensor telemetry to a remote server cloud infrastructure[span_41](start_span)[span_41](end_span). When physical process deviations occur, an arrayed Random Forest regression algorithm computes real-time plant parameters, while a Gemini language model parses human intervention commands to safely override tuning constraints dynamically[span_42](start_span)[span_42](end_span).
@@ -95,7 +95,7 @@ Engineered a comprehensive transfer function baseline inside MATLAB/Simulink map
 <details>
 <summary><b>🤖 AI-Driven Process Control Gain Tuning Bot</b></summary>
 <br>
-### Project Description
+ Project Description
 A comprehensive web platform dedicated to process engineering optimization, converting raw unstructured natural expressions into highly accurate control instrumentation recommendations[span_43](start_span)[span_43](end_span).
 ### Architectural Blueprint
 
@@ -107,9 +107,9 @@ A comprehensive web platform dedicated to process engineering optimization, conv
 | **Security** | Sanitized mathematical input parsers preventing injection vectors into the simulation stack[span_47](start_span)[span_47](end_span). |
 | **Impact** | Drastically reduces engineering calculation overheads for complex First Order Plus Dead Time (FOPDT) models[span_48](start_span)[span_48](end_span). |
 
-### Repository
+Repository
 * 🔗 [Process-Gain-Tuning-Bot](#)
-### Professional Project Explanation
+* Professional Project Explanation
 Architected a fault-tolerant hybrid processing architecture backed by a localized numerical fallback matrix to ensure high platform uptime[span_49](start_span)[span_49](end_span). The engine translates technical natural text inputs directly into concrete tuning values ($Ziegler-Nichols$, $Cohen-Coon$) for complex industrial processes[span_50](start_span)[span_50](end_span). Deployed a dynamic dashboard layout tracking instantaneous system validation through interactive step response animations utilizing Plot.js[span_51](start_span)[span_51](end_span).
 </details>
 <details>
@@ -127,17 +127,12 @@ A multi-tier agricultural engineering telemetry deployment designed under CMRG f
 | **Security** | Decentralized edge data aggregation layer ensuring localized telemetry integrity before transmission[span_56](start_span)[span_56](end_span). |
 | **Impact** | Successfully realized continuous, automated agricultural analytics backed by official government funding[span_57](start_span)[span_57](end_span). |
 
-### Repository
-* 🔗 [Smart-Crop-Monitoring-CMRG](#)
-### Professional Project Explanation
-Designed and realized a robust physical architecture utilizing STM32 microcontrollers for deterministic, low-level sensor layer interaction and data extraction[span_58](start_span)[span_58](end_span). The edge device pairs with an ESP32 processing engine tasked with managing long-range cloud infrastructure data routing[span_59](start_span)[span_59](end_span). Developed firmware executing continuous data analysis to deliver instant notifications regarding dynamic structural environmental variations[span_60](start_span)[span_60](end_span).
-</details>
-<details>
+
 <summary><b>📡 Process Data Communication via Zigbee Wireless Protocol</b></summary>
 <br>
-### Project Description
+ Project Description
 A hardware-validated wireless instrumentation pipeline establishing deterministic point-to-point data transmission for demanding processing field locations[span_61](start_span)[span_61](end_span).
-### Architectural Blueprint
+ Architectural Blueprint
 
 | Metric | Specification |
 | :--- | :--- |
@@ -147,10 +142,7 @@ A hardware-validated wireless instrumentation pipeline establishing deterministi
 | **Security** | Hardware-level pairing configuration preventing unauthorized wireless RF signal snooping[span_65](start_span)[span_65](end_span). |
 | **Impact** | Eliminates the reliance on expensive physical cable paths within challenging industrial architectures[span_66](start_span)[span_66](end_span). |
 
-### Repository
-* 🔗 [Zigbee-Process-Data-Link](#)
-### Professional Project Explanation
-Constructed a low-power wireless transmission framework linking physical process sensors directly to a central monitor[span_67](start_span)[span_67](end_span). Configured reliable serial communication handlers across standard UART interfaces on STM hardware platforms[span_68](start_span)[span_68](end_span). Integrated precision timing mechanisms to eliminate telemetry frame drop and optimize packet error rates over continuous wireless transmission profiles[span_69](start_span)[span_69](end_span).
+
 </details>
 ---
 ## 6. Experience Section
