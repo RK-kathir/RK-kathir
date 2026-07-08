@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=3c096c&secondaryColor=7b2cbf&height=200&section=header&text=KATHIRVEL%20RAJAN&fontSize=65&fontColor=ffffff&fontAlignY=45" width="100%" alt="Capsule Render Banner" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Electronics+%26+Instrumentation+Engineer;AI+%2F+ML+Integration+Specialist;Full-Stack+IoT+%26+Automation+Developer" alt="Typing SVG" />
 </p>
