@@ -1,4 +1,8 @@
-<h1 align="center">Kathirvel Rajan</h1>
+<body style="background-color:powderblue;">
+
+<h1 align="center">KATHIRVEL RAJAN</h1>
+
+</body>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=Electronics+%26+Instrumentation+Engineer;Process+Control+%26+Automation;Embedded+Systems+Developer" alt="Typing SVG" />
@@ -13,7 +17,7 @@
   <a href="https://linkedin.com/in/kathirvel-rajan-29051b372/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
-  <a href="mailto:kvelkvp@gmail.com">
+  <a  href="mailto:kvelkvp@gmail.com">
     <img src="https://img.shields.io/badge/Email-kvelkvp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"
   </a>
   <a href="https://github.com/RK-kathir" target="_blank">
