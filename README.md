@@ -135,6 +135,6 @@ Built a transistor testing circuit using a 555 Timer IC to automatically identif
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathirvel-rajan&show_icons=true&theme=nord&title_color=0055A4&icon_color=003366&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvel-rajan&layout=compact&theme=nord&title_color=0055A4&text_color=333333&bg_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kathirvel-rajan&show_icons=true&theme=nord&title_color=0055A4&icon_color=003366&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="68%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvel-rajan&layout=compact&theme=nord&title_color=0055A4&text_color=333333&bg_color=ffffff" alt="Top Languages" width="68%" />
 </p>
