@@ -135,10 +135,3 @@ Built a transistor testing circuit using a 555 Timer IC to automatically identif
 *  **CATERPILLAR INC:** EMERGING AS FINALIST IN THE TECH CHALLENGE 2026
 
 ---
----
-
-## Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kathirvel-rajan/kathirvel-rajan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
